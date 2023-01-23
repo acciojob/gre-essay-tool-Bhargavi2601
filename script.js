@@ -4,7 +4,7 @@ document.getElementById("evaluatedText").value = ""; // initially string is empt
 
 document.addEventListener("keyup", function () {
 	  str = document.getElementById("evaluatedText").value; return string
-	consostr.split(' ').length;
+	//consostr.split(' ').length;
 		 
  let x = str.split(' ')
 	x= x.filter(item => item);
