@@ -11,7 +11,7 @@ document.addEventListener("keyup", function () {
 	console.log(x)
 	document.querySelector("#wordCount").textContent = x.length;
 	
-    console.log(str);
+   // console.log(str);
 	// console.log(str.split(' ').length);
 });
 
